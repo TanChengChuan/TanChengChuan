@@ -12,12 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-
+![Visitors](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TanChengChuan/TanChengChuan/main/visitor-count.json)
 
 
 <h1 align="center">
-  <a href="https://baidu.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=It's MYGO!!!!!;TECH%20OTAKUS%20SAVE%20THE%20WORLD!&center=true&size=27&pause=1000" />
+  <a href="https://tanime.life">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=It%27s%20MYGO%21%21%21%21%21%3BTECH%20OTAKUS%20SAVE%20THE%20WORLD%21&center=true&size=27&pause=1000" />
   </a>
 </h1>
 
