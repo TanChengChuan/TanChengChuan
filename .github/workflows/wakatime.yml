@@ -12,7 +12,7 @@ jobs:
       contents: write  # 必须授予写入权限
     
     steps:
-      - uses: anmol098/waka-readme-stats@v2.0.5  # 使用固定版本
+      - uses: anmol098/waka-readme-stats@master  # 使用固定版本
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用内置Token更安全
