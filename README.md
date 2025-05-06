@@ -47,15 +47,20 @@
 
 ### Time
 
-<!-- 简洁模式 -->
-<!-- ![WakaTime 统计](https://github-readme-stats.vercel.app/api/wakatime?username=TanChengChuan&theme=transparent&layout=compact) -->
 
-<figure><embed src="https://wakatime.com/share/@TanChengChuan/2363ae9a-a0e0-4942-8275-7e7d97d4e65f.svg"></embed></figure>
 
-<figure><embed src="https://wakatime.com/share/@TanChengChuan/2363ae9a-a0e0-4942-8275-7e7d97d4e65f.svg"></embed></figure>
-#### Total Code Time
 
-<a href="https://wakatime.com/@edd67534-2613-4fa0-8eb1-4628258b98fb"><img src="https://wakatime.com/badge/user/edd67534-2613-4fa0-8eb1-4628258b98fb.svg" alt="Total time coded since Apr 10 2025" /></a>
+<!-- 使用img替代embed -->
+<img src="https://wakatime.com/share/@TanChengChuan/2363ae9a-a0e0-4942-8275-7e7d97d4e65f.svg" 
+     alt="WakaTime Stats" 
+     width="800"
+     onerror="this.style.display='none'">
+
+
+<!-- #### Total Code Time
+
+
+<a href="https://wakatime.com/@edd67534-2613-4fa0-8eb1-4628258b98fb"><img src="https://wakatime.com/badge/user/edd67534-2613-4fa0-8eb1-4628258b98fb.svg" alt="Total time coded since Apr 10 2025" /></a> -->
 
 
 ### Visitor
