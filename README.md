@@ -3,16 +3,17 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TECH%20OTAKU%20SAVE%20THE%20WORLD&fontSize=55&fontAlign=50&fontAlignY=30&desc=For%20a%20Better%20Life&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 
+---
+
+### Status
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanChengChuan&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
 
-![Visitors](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TanChengChuan/TanChengChuan/main/visitor-count.json)
+### Visitor
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TanChengChuan/TanChengChuan/main/visitor-count.json" alt="Visitor Count Badge">
 
 
 <h1 align="center">
@@ -21,15 +22,24 @@
   </a>
 </h1>
 
-
+### Contribution
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TanChengChuan&theme=github-compact&hide_border=true&area=true" />
 
 
 ## Language & Tools
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,cpp,go" />
   </a>
 </p>
+
+---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
