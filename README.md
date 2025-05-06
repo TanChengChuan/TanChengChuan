@@ -12,8 +12,7 @@
 </div>
 
 
-### Visitor
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TanChengChuan/TanChengChuan/main/visitor-count.json" alt="Visitor Count Badge">
+
 
 
 <h1 align="center">
@@ -24,6 +23,8 @@
 
 ### Contribution
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=TanChengChuan&theme=github-compact&hide_border=true&area=true" />
+
+
 
 
 ## Language & Tools
@@ -42,4 +43,17 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Language%20Distribution&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+
+### Time
+
+<!-- 简洁模式 -->
+![WakaTime 统计](https://github-readme-stats.vercel.app/api/wakatime?username=TanChengChuan&theme=transparent&layout=compact)
+
+#### Total Code Time
+
+<a href="https://wakatime.com/@edd67534-2613-4fa0-8eb1-4628258b98fb"><img src="https://wakatime.com/badge/user/edd67534-2613-4fa0-8eb1-4628258b98fb.svg" alt="Total time coded since Apr 10 2025" /></a>
+
+
+### Visitor
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TanChengChuan/TanChengChuan/main/visitor-count.json" alt="Visitor Count Badge">
