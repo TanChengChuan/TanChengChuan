@@ -29,9 +29,7 @@
 
 ## Language & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanChengChuan&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff&title_color=000&text_color=000)
 
 ---
 
