@@ -1,0 +1,27 @@
+name: Update Visitor Count
+on:
+  push:
+  schedule:
+    - cron: '0 * * * *'  # 每小时更新
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Visitor Data (模拟API调用)
+        run: |
+          # 这里替换为你的实际API调用（如需要认证请添加token）
+          echo '{"count":'$((RANDOM % 1000))'}' > visitor-data.json
+
+      - name: Update Badge File
+        run: |
+          COUNT=$(jq -r '.count' visitor-data.json)
+          jq --arg count "$COUNT" '.message = $count' visitor-count.json > temp.json && mv temp.json visitor-count.json
+
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update visitor count to ${{ env.COUNT }}"
+          add: 'visitor-count.json'
